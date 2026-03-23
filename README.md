@@ -1,3 +1,6 @@
 # Student_management_system
 
-build simple backend system using the MVC pattern, JavaScript class inheritance
+2026-1 Advanced Web Programming
+assignment #1 part-b
+
+build simple backend system using the MVC pattern, JavaScript class inheritance.
