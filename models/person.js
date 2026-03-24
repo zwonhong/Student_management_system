@@ -1,8 +1,8 @@
 class Person {
-    constructor(name, age) {
-        this.name = name;
-        this.age = age;
-    }
+  constructor(name, email) {
+    this.name = name;
+    this.email = email;
+  }
 }
 
 module.exports = Person;
